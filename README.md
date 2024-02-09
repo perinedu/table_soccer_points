@@ -19,7 +19,7 @@ Este projeto é um script de Python que utiliza Selenium para fazer web scraping
   **MGV (Margem de Vitória) 1, 2, 3+**. Número de partidas onde a equipe teve uma margem de vitória de 1 2 ou 3+ gols.
   
   **MGD (Margem de Derrota) 1, 2, 3+**. Número de partidas onde a equipe teve uma margem de derrota de 1 2 ou 3+ gols.
-  
+  ----------------------------------------------------------------------------------------------------------------------
 
   **Primeiro Tempo / Segundo Tempo**. As mesmas estatísticas organizadas por tempo.
   
