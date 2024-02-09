@@ -122,6 +122,10 @@ def calcular_estatisticas(df, equipes, contexto='Geral', tempo='Total'):
                 else:
                     estatisticas.at[equipe, 'D'] += 1
                 
+                # Atualização da estatística "Ambos Marcaram"
+                if ambos_marcaram:
+                    estatisticas.at[equipe, 'AbM'] += 1
+
                 # Gols feitos
                 if gols_feitos == 1:
                     estatisticas.at[equipe, 'GF 1'] += 1
