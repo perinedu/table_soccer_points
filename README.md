@@ -10,7 +10,7 @@ Este projeto é um script de Python que utiliza Selenium para fazer web scraping
 - **Geração de tabela estruturada**: Cria uma tabela com os dados dos jogos, pronta para análise ou exportação para outros formatos como CSV.
 - **Diferenciais da Tabela**:
   
-**AbM**. Número de partidas onde ambos marcaram.
+  **AbM**. Número de partidas onde ambos marcaram.
   **GF(Gols Feitos) 1, 2, 3+**. Número de partidas onde a equipe marcou 1 2 ou 3+ gols.
   **GS(Gols Sofridos) 1, 2, 3+**. Número de partidas onde a equipe sofreu 1 2 ou 3+ gols.
   **MGV (Margem de Vitória) 1, 2, 3+**. Número de partidas onde a equipe teve uma margem de vitória de 1 2 ou 3+ gols.
